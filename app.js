@@ -71,4 +71,4 @@ function rand() {
     });
 }
 // rand();
-setInterval(rand, 1000);
+setInterval(rand, 2500);

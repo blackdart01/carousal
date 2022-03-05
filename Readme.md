@@ -7,8 +7,12 @@
     * Live Reload within 2000ms or 2seconds
 ## Releases / Major Updates
     1.0 UI Release
+    1.2 modified
+    1.3 Support For Tablet mode
+    1.5 added copyright
+    1.6 Report Bug Feature
 ## Bugs
-    * No bugs reported
+     * Faster Reload - Solved @v1.2
 ## On Beta Developement
     1.8 : Better UI Release
     2.0 : Mobile UI Release

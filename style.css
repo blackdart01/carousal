@@ -6,7 +6,11 @@
 body {
   font-family: lato;
 }
-
+h1 {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 150%);
+}
 .container {
   width: 40%;
   position: absolute;
@@ -53,4 +57,34 @@ button {
 #rightChevron:hover {
   transition: 100ms ease-in-out;
   background-color: rgb(216, 213, 213);
+}
+
+.report {
+  position: absolute;
+  bottom: 2%;
+  left: 45%;
+  width: 60%;
+  transform: translateX(-41%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+#report {
+  margin: 0 20% 10px 20% !important;
+  width: 25%;
+  text-decoration: none;
+  color: red;
+  font-size: 1.2em;
+  padding: 5px 10px;
+  border-radius: 4px;
+  border: 1px solid red;
+}
+#report:hover {
+  background-color: transparent;
+  color: white;
+  border: none;
+  background-color: red;
+  transition: 100ms ease-in-out;
 }
