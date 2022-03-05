@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: lato;
+}
+
+.container {
+  width: 40%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border: 1px solid rgb(190, 190, 190);
+  padding: 25px 25px;
+  border-radius: 25px;
+}
+.img img {
+  border-radius: 15%;
+  margin-bottom: 10px;
+  width: 150px;
+  height: auto;
+}
+.name {
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+.jobtitle {
+  font-size: 1.1em;
+  font-weight: 550;
+}
+.para {
+  width: 80%;
+  margin: 10% 10% 0 10%;
+}
+.swipe {
+  display: flex;
+  justify-content: space-between;
+  margin: 5% -10px 0 -10px;
+}
+button {
+  border: none;
+}
+#leftChevron,
+#rightChevron {
+  padding: 10px 10px;
+  border-radius: 25%;
+}
+#leftChevron:hover,
+#rightChevron:hover {
+  transition: 100ms ease-in-out;
+  background-color: rgb(216, 213, 213);
+}
