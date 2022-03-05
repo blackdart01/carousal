@@ -1,4 +1,4 @@
-# Carousal Testimonials
+# carousel Testimonials
 ## About
     This Web App features most basic testimonial options.
 ## Features
@@ -23,6 +23,6 @@
     real stuff. Currently persuing B.Tech from SSIPMT in
     CSE branch, in preplacement year.
 
-<a href="https://www.github.com/blackdart01/carousal" />Visit GitHub Profile
+<a href="https://www.github.com/blackdart01/carousel" />Visit GitHub Profile
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=blackdart01.carousal)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=blackdart01.carousel)
